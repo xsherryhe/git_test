@@ -1,0 +1,1 @@
+This is Sherry's first git project!
